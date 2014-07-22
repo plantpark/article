@@ -99,6 +99,4 @@ void loop()
 这样也可以
 ```
 
-编辑软件建议使用gitbook，下载地址：https://github.com/GitbookIO/editor/releases
-
-更为详细的介绍可以参照链接 http://wowubuntu.com/markdown/#header 详细学习
+编辑软件建议使cmd，https://www.zybuluo.com/mdeditor
