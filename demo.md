@@ -3,6 +3,19 @@
 
 翻译文章一定要注明原文链接，作者，及翻译者。
 
+##简介
+
+
+##清单
+###材料
+###工具
+##组装
+###组装1
+###组装2
+##软件
+##成果
+##评论
+
 ![](http://doask.qiniudn.com/openbook9-brushless1.jpg)
 
 ![](http://doask.qiniudn.com/openbook9-brushless2.jpg)
