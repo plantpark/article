@@ -1,4 +1,10 @@
-##demo 请参照 demo.md
+##我是demo
+
+一个完整的demo，请参照可重复使用的无线点火器
+
+欲呈现的效果为：https://www.zybuluo.com/plantpark/note/24062
+
+各位只需要将md代码提交到github
 
 ##github使用教程：
 windows https://github.com/JiapengLi/GitTutorial 
